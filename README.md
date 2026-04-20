@@ -19,7 +19,7 @@
 I'm a Computer Engineering student passionate about building **reliable, production-grade AI systems** — from agentic workflows and RAG pipelines to full-stack web platforms. I love tackling hard problems at the intersection of AI, distributed systems, and developer tooling.
 
 - 🏆 **SpectraX Hackathon Winner** — End-to-end Agentic AI solution
-- 📄 **2× Scopus-Indexed Research Papers** published (ORCID)
+- 📄 **3× Scopus-Indexed Research Papers** published (ORCID)
 - 🥇 **Top 10** at National Hackathon, Symbiosis Indore
 - ⚡ **CodeChef Starters-209** — Global Rank #189
 - 🎓 CGPA: **8.69 / 10** at Vishwakarma Institute of Technology, Pune
