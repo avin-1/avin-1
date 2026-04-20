@@ -90,6 +90,16 @@ I'm a Computer Engineering student passionate about building **reliable, product
 
 ---
 
+### ⚙️ [Rust Compiler Front-End](https://github.com/avin-1/RustCompiler)
+> Custom compiler front-end for a subset of Rust, built from scratch in C
+
+- Engineered a **tokenizer and parser** using Flex (Lex) and Bison (Yacc) for full lexical and syntax analysis
+- Generates and visualizes **Abstract Syntax Trees (ASTs)** for parsed Rust code
+- Applied core compiler design principles — grammar rules, semantic validation, and low-level execution pipelines
+- **Stack:** C · Flex (Lex) · Bison (Yacc)
+
+---
+
 ## 📜 Certifications
 
 - 🏅 [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org) — IBM
@@ -108,6 +118,6 @@ I'm a Computer Engineering student passionate about building **reliable, product
 ---
 
 <p align="center">
-  <i>Open to internship and collaboration opportunities in AI/ML and backend engineering.</i><br/>
+  <i>Open to internship and collaboration opportunities in Applied AI and backend engineering.</i><br/>
   <a href="mailto:avinashbhurke8@gmail.com">avinashbhurke8@gmail.com</a> &nbsp;·&nbsp; Pune, India
 </p>
