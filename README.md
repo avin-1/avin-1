@@ -22,7 +22,7 @@ I'm a Computer Engineering student passionate about building **reliable, product
 - 📄 **3× Scopus-Indexed Research Papers** published (ORCID)
 - 🥇 **Top 10** at National Hackathon, Symbiosis Indore
 - ⚡ **CodeChef Starters-209** — Global Rank #189
-- 🎓 CGPA: **8.69 / 10** at Vishwakarma Institute of Technology, Pune
+- 🎓 CGPA: **8.79 / 10** at Vishwakarma Institute of Technology, Pune
 
 ---
 
