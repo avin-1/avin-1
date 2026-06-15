@@ -28,28 +28,24 @@ I'm a Computer Engineering student passionate about building **reliable, product
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-**AI / ML**  
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+**AI / ML** ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Web & Backend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+**Web & Backend** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-**Databases & Cloud**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+**Databases & Cloud** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -80,13 +76,14 @@ I'm a Computer Engineering student passionate about building **reliable, product
 
 ---
 
-### 🐛 [Visual Debugger — Python Execution Tracer](https://github.com/avin-1/visual-debugger)
-> Line-by-line Python execution visualizer for learning and debugging DSA problems
+### 🚀 [High-Performance Layer 7 Java Load Balancer](https://github.com/avin-1/loadbalancer)
+> Fully asynchronous, non-blocking L7 reverse proxy and HTTPS load balancer built entirely from scratch in Java
 
-- Built using `sys.settrace` for granular call-level and line-level tracing
-- State snapshot engine captures variable mutations at each execution step
-- Visualizes **recursion trees and call stacks** with a synchronized step-through UI
-- **Stack:** Python · Flask · React.js · Monaco Editor · REST APIs
+- Built an event-driven **Reactor Pattern** architecture using Java NIO (`Selector`, `SocketChannel`) to multiplex thousands of concurrent connections on a single thread.
+- Engineered edge **TLS/SSL Termination** using a custom cryptographic state machine with `SSLEngine`, offloading heavy cryptographic handshakes to a dedicated worker thread pool.
+- Implemented **Consistent Hashing with Virtual Nodes** via a dynamic `TreeMap` ring for uniform traffic allocation, protected by a `ReentrantReadWriteLock` for intense read concurrency.
+- Built a lock-free **Token Bucket Rate Limiter** using Compare-And-Swap (CAS) loops via `AtomicReference`, achieving evaluation latency metrics under 1 millisecond.
+- **Stack:** Java · Java NIO · Custom Token Bucket (CAS) · Consistent Hashing · Multi-threading
 
 ---
 
